@@ -1,6 +1,0 @@
-@Jabba.ChatService_HostAddress = http://localhost:5155
-
-GET {{Jabba.ChatService_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
